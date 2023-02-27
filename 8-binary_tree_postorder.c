@@ -1,20 +1,3 @@
-Skip to content
-NwabuezeFranklin
-/
-binary_trees
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-binary_trees/8-binary_tree_postorder.c
-@NwabuezeFranklin
-NwabuezeFranklin post-order Trasversal
- 1 contributor
-16 lines (15 sloc)  439 Bytes
 #include "binary_trees.h"
 
 /**
@@ -31,17 +14,4 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 		func(tree->n);
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
